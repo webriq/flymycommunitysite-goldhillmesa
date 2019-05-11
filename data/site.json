@@ -1,28 +1,28 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "Gold Hill Mesa",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
-      "metadesc": "Trusted By Fine Real Estate Professionals",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1557555565/jmunx0xq26o3q294coqd.png",
+      "metadesc": "Gold Hill Mesa ",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
     }
   ],
   "content": [
     {
-      "email": "flymycommunity@gmail.com",
-      "linkcont": "+0909 2131 1231",
-      "videoid": "255662356",
+      "email": "lauren@militaryhomesearch.com",
+      "linkcont": "719-338-7294",
+      "videoid": "311602953",
       "sliderbg": "/img/fly3_bg.jpg"
     }
   ],
   "about": [
-  {
-    "abouttext1": "Crystal Park - FMC ",
-    "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
-    "aboutbg": "/img/content_bg.png"
-  }
+    {
+      "abouttext1": "Gold Hill Mesa",
+      "abouttext2": "Welcome to Gold Hill Mesa, a master planned community in Colorado Springs.  At Gold Hill Mesa, we believe in fully enjoying the gift of each moment. Maybe you wish to take in spectacular views in every direction, or make time to read a book on your front porch; perhaps you wish to bookend your day with a hike in the foothills of Pikes Peak at sunrise, and meet friends in the Gold Hill Mesa Community Center for appetizers and an art opening at sunset.  Whether you are seeking solitude or socializing, you can find more time for whatever you enjoy at Gold Hill Mesa. Creating a sense of place and a chance to savor more free time is integral to our design.",
+      "aboutbg": "/img/content_bg.png"
+    }
   ],
   "updatedDate": "2017-11-28T06:24:37.530Z"
 }
